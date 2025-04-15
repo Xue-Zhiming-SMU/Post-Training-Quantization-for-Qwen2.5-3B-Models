@@ -39,7 +39,7 @@ The following table summarizes the key performance metrics across the different 
 
 ## How to Reproduce
 
-To reproduce these results, run the `PTQ Models' Evaluation with BnB.ipynb` notebook. Ensure you have the necessary dependencies installed.
+To reproduce these results, run the `PTQ Models' Evaluation via BnB.ipynb` notebook. Ensure you have the necessary dependencies installed.
 
 ## Dependencies (Example)
 
