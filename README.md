@@ -51,4 +51,3 @@ Key Python libraries used likely include:
 *   `datasets`
 *   `evaluate`
 
-*(Please adjust the model name and dependency list as needed based on your actual notebook.)*
