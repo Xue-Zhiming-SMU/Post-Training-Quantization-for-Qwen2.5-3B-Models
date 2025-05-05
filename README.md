@@ -1,7 +1,7 @@
 
 # Model Quantization Evaluation
 
-This repository contains a notebook that evaluates the performance of a language model [Specify Model Name, e.g., Llama 2 7B] using various quantization techniques. The evaluation is performed on the MMLU, ARC-easy, and ARC-Challenge benchmarks.
+This repository contains a notebook that evaluates the performance of a Qwen2.5 using various quantization techniques. The evaluation is performed on the MMLU, ARC-easy, and ARC-Challenge benchmarks.
 
 Metrics collected include accuracy, perplexity, memory footprint (model size), and inference latency.
 
